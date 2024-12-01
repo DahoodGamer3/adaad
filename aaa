@@ -1,5 +1,5 @@
 script_key = 'xRdUMXCZDxuVxBELsbKFoMnbJYhQWGdI'
-getgenv().AutofarmSettings = {
+_G.AutofarmSettings = {
     ["Fps"] = 10,
     ["Underground"] = true,
 
